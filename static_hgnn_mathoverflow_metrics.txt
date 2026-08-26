@@ -1,0 +1,5 @@
+Dataset: mathoverflow
+Model: static_hgnn
+Mean Average Precision (AP): 0.6342
+Mean ROC-AUC (ALL): 0.6660
+Mean ROC-AUC (NOVEL): 0.6607

@@ -1,0 +1,8 @@
+=================================================================
+COMPUTATIONAL RUNTIME BENCHMARK (TEMPHYPER VS CT-RNN)
+=================================================================
+
+Dataset         | TempHyper (O(N))   | CT-RNN (O(N^2))    | Speedup   
+-----------------------------------------------------------------
+Email           |         6.30 ms/step |         0.94 ms/step |    0.15x
+Mathoverflow    |         3.07 ms/step |         1.30 ms/step |    0.42x

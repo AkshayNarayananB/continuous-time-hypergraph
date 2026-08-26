@@ -1,0 +1,5 @@
+Dataset: email
+Model: static_hgnn
+Mean Average Precision (AP): 0.7797
+Mean ROC-AUC (ALL): 0.7929
+Mean ROC-AUC (NOVEL): 0.7535

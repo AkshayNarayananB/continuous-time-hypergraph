@@ -1,0 +1,6 @@
+Dataset: mathoverflow
+Model: heuristic
+Mean Average Precision (AP) [ALL]: 0.6306
+Mean ROC-AUC [ALL]: 0.6161
+Mean Average Precision (AP) [NOVEL]: 0.6117
+Mean ROC-AUC [NOVEL]: 0.5992

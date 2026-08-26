@@ -1,0 +1,4 @@
+Dataset: email
+Model: temphyper_dec
+Mean Average Precision (AP): 0.8870
+Mean ROC-AUC: 0.8924

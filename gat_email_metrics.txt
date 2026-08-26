@@ -1,0 +1,6 @@
+
+================ STATIC HGNN METRICS ================
+Mean Average Precision (AP): 0.7399
+Mean ROC-AUC (ALL): 0.7651
+Mean ROC-AUC (NOVEL): 0.7469
+=====================================================

@@ -1,0 +1,5 @@
+Dataset: mathoverflow
+Model: temporal_pairwise_ctrnn
+Mean Average Precision (AP): 0.5688
+Mean ROC-AUC (ALL): 0.5713
+Mean ROC-AUC (NOVEL): 0.5685

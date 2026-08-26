@@ -1,0 +1,4 @@
+Dataset: mathoverflow
+Model: temphyper_dec
+Mean Average Precision (AP): 0.7033
+Mean ROC-AUC: 0.6947

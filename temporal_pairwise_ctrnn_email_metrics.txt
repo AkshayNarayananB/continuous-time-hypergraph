@@ -1,0 +1,5 @@
+Dataset: email
+Model: temporal_pairwise_ctrnn
+Mean Average Precision (AP): 0.7402
+Mean ROC-AUC (ALL): 0.7353
+Mean ROC-AUC (NOVEL): 0.6892
