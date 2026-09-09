@@ -1,4 +1,4 @@
-# TempHyper: Feature-Injected Continuous-Time Hypergraph Memory for Dynamic Link Prediction
+# HyperTGN: Feature-Injected Continuous-Time Hypergraph Memory for Dynamic Link Prediction
 
 [![arXiv](https://img.shields.io/badge/arXiv-Pending-b31b1b.svg)](https://arxiv.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
